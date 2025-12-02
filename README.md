@@ -1,15 +1,15 @@
-## 📘 Project Title  
+# 📘 Project Title  
 **Structural Resilience in Global Economic Crises: A Hybrid Approach Leveraging Reinforcement Learning and Rank Assortativity Towards Trade Network Stabilisation**
 
----
+
 
 ## 🌐 Dataset  
 The primary dataset used in this project is the **WIOD 2016 Release**, accessible at:  
 🔗 [https://www.rug.nl/ggdc/valuechain/wiod/](https://www.rug.nl/ggdc/valuechain/wiod/)
 
----
 
-## 📂 Folder Structure
+
+## 📂 Project Structure
 
 ### `source/`  
 This folder contains all Python scripts used to implement the core methodology of the project, including network construction, metric computation, and reinforcement learning modules.
