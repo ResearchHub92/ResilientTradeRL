@@ -1,0 +1,18 @@
+{
+  "target_sr": 0.4984928369522095,
+  "shock_mode": true,
+  "max_steps": 20,
+  "countries": [
+    "CHN",
+    "USA",
+    "TWN",
+    "MEX"
+  ],
+  "sectors": 56,
+  "n_steps": 2048,
+  "batch_size": 128,
+  "learning_rate": 0.0003,
+  "gamma": 0.99,
+  "ent_coef": 0.01,
+  "total_timesteps": 50000
+}
